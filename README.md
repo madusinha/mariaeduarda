@@ -11,4 +11,4 @@ BEM VINDO AO MUNDO DE NARNIA
 
 - MARIA.POLETI.SANTOS@ESCOLA.PR.GOV.BR
 
-  [enderesso de imagem](https://media.tenor.com/z57wuqrlCgwAAAAM/milk-mocha.gif)
+  ![](https://media.tenor.com/z57wuqrlCgwAAAAM/milk-mocha.gif)
